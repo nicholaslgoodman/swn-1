@@ -1,0 +1,207 @@
+Name: Soledad Illan
+Gender: Female
+Culture: Spanish
+Age: Old
+Height: Very Short
+Problems: Grudge against local authorities
+Job motivation: Family tradition
+Quirk: Missing teeth
+
+Name: Vilma Lebedev
+Gender: Female
+Culture: Russian
+Age: Middle-aged
+Height: Short
+Problems: Has enemies at work
+Job motivation: It's a stepping stone to better things
+Quirk: Fastidiously neat
+
+Name: Yakov Volokh
+Gender: Male
+Culture: Russian
+Age: Old
+Height: Average height
+Problems: Owes loan sharks
+Job motivation: Sense of social duty
+Quirk: Repeats himself constantly
+
+Name: Nadezdha Zaitsev
+Gender: Female
+Culture: Russian
+Age: Young
+Height: Very Short
+Problems: Enmity of a local psychic
+Job motivation: It's a stepping stone to better things
+Quirk: Powerful build
+
+Name: Rafaela Santoro
+Gender: Female
+Culture: Spanish
+Age: Young
+Height: Tall
+Problems: Drug or behavioral addict
+Job motivation: Sense of social duty
+Quirk: Fastidiously neat
+
+Name: Mohal Johar
+Gender: Male
+Culture: Indian
+Age: Middle-aged
+Height: Very Short
+Problems: Owes loan sharks
+Job motivation: Feels inadequate as anything else
+Quirk: Bad eyesight, wears spectacles
+
+Name: Emilohi Asuni
+Gender: Female
+Culture: Nigerian
+Age: Old
+Height: Average height
+Problems: Grudge against local authorities
+Job motivation: Idealistic about the job
+Quirk: Bald
+
+Name: Igor Zhukov
+Gender: Male
+Culture: Russian
+Age: Middle-aged
+Height: Very Tall
+Problems: Chronic illness
+Job motivation: They're quitting at the first good opportunity
+Quirk: Wears religious emblems
+
+Name: Kang Xing
+Gender: Male
+Culture: Chinese
+Age: Young
+Height: Average height
+Problems: Close relative in trouble with the law
+Job motivation: Family tradition
+Quirk: Terrible taste in clothing
+
+Name: Petr Shvedov
+Gender: Male
+Culture: Russian
+Age: Middle-aged
+Height: Average height
+Problems: Blackmailed by enemy
+Job motivation: Idealistic about the job
+Quirk: Speaks as little as possible
+
+Name: Zhilan Fu
+Gender: Female
+Culture: Chinese
+Age: Middle-aged
+Height: Short
+Problems: Blackmailed by enemy
+Job motivation: They're quitting at the first good opportunity
+Quirk: Carries work tools constantly
+
+Name: Tahirah Najeeb
+Gender: Female
+Culture: Arabic
+Age: Young
+Height: Average height
+Problems: Close relative in trouble with the law
+Job motivation: Feels inadequate as anything else
+Quirk: Carries work tools constantly
+
+Name: Dinesh Dutta
+Gender: Male
+Culture: Indian
+Age: Young
+Height: Short
+Problems: Blackmailed by enemy
+Job motivation: It's a stepping stone to better things
+Quirk: Smells like their work
+
+Name: Dmitri Lebedev
+Gender: Male
+Culture: Russian
+Age: Middle-aged
+Height: Average height
+Problems: Has a secret kept from their family
+Job motivation: Force of habit takes them through the day
+Quirk: Missing teeth
+
+Name: Sharif Harbi
+Gender: Male
+Culture: Arabic
+Age: Middle-aged
+Height: Average height
+Problems: Close relative in trouble with the law
+Job motivation: Idealistic about the job
+Quirk: Smells like their work
+
+Name: Jumanah Dahhak
+Gender: Male
+Culture: Arabic
+Age: Middle-aged
+Height: Tall
+Problems: Drug or behavioral addict
+Job motivation: Force of habit takes them through the day
+Quirk: Bald
+
+Name: Naimah Kasim
+Gender: Female
+Culture: Arabic
+Age: Middle-aged
+Height: Tall
+Problems: Drug or behavioral addict
+Job motivation: It's a stepping stone to better things
+Quirk: Scars all over hands
+
+Name: Kiril Ortov
+Gender: Male
+Culture: Russian
+Age: Old
+Height: Very Short
+Problems: Owes loan sharks
+Job motivation: Seeks to please another
+Quirk: Bearded, if male; ankle-length hair if female
+
+Name: Sarika Das
+Gender: Female
+Culture: Indian
+Age: Middle-aged
+Height: Short
+Problems: Threatened with loss of spouse, sibling, or child
+Job motivation: Family tradition
+Quirk: Fastidiously neat
+
+Name: Salvador Guillen
+Gender: Male
+Culture: Spanish
+Age: Old
+Height: Short
+Problems: Enmity of a local psychic
+Job motivation: Seeks to please another
+Quirk: Repeats himself constantly
+
+Name: Efraim Kasim
+Gender: Male
+Culture: Arabic
+Age: Old
+Height: Average height
+Problems: Has enemies at work
+Job motivation: Nothing better to do, and they need the money
+Quirk: Bad eyesight, wears spectacles
+
+Name: Estevan Roma
+Gender: Male
+Culture: Spanish
+Age: Young
+Height: Tall
+Problems: Grudge against local authorities
+Job motivation: Force of habit takes them through the day
+Quirk: Long hair
+
+Name: Mahparah Adunola
+Gender: Female
+Culture: Nigerian
+Age: Old
+Height: Tall
+Problems: Grudge against local authorities
+Job motivation: Feels inadequate as anything else
+Quirk: Bad eyesight, wears spectacles
+

@@ -1,0 +1,112 @@
+Name: Ruolan Bai
+Gender: Female
+Culture: Chinese
+Age: Old
+Height: Very Short
+Problems: Grudge against local authorities
+Job motivation: Idealistic about the job
+Quirk: Wears religious emblems
+Name: Usman Abdel
+Gender: Male
+Culture: Arabic
+Age: Young
+Height: Average height
+Problems: Drug or behavioral addict
+Job motivation: Family tradition
+Quirk: Always snuffling
+Name: Udofia Agbaje
+Gender: Male
+Culture: Nigerian
+Age: Middle-aged
+Height: Average height
+Problems: Enmity of a local psychic
+Job motivation: Religious obligation or vow
+Quirk: Always snuffling
+Name: Catherine Turner
+Gender: Female
+Culture: English
+Age: Young
+Height: Very Short
+Problems: Drug or behavioral addict
+Job motivation: Sense of social duty
+Quirk: Wears religious emblems
+Name: Amala Malhotra
+Gender: Female
+Culture: Indian
+Age: Young
+Height: Tall
+Problems: Has enemies at work
+Job motivation: Family tradition
+Quirk: Bearded, if male; ankle-length hair if female
+Name: Edward Thompson
+Gender: Male
+Culture: English
+Age: Young
+Height: Tall
+Problems: Owes loan sharks
+Job motivation: Idealistic about the job
+Quirk: Terrible taste in clothing
+Name: Sebastian Pancorbo
+Gender: Male
+Culture: Spanish
+Age: Young
+Height: Average height
+Problems: Blackmailed by enemy
+Job motivation: Nothing better to do, and they need the money
+Quirk: Speaks as little as possible
+Name: Kang Fang
+Gender: Male
+Culture: Chinese
+Age: Young
+Height: Average height
+Problems: Has a secret kept from their family
+Job motivation: They're quitting at the first good opportunity
+Quirk: Scars all over hands
+Name: Natsu Nakamura
+Gender: Female
+Culture: Japanese
+Age: Middle-aged
+Height: Tall
+Problems: Owes loan sharks
+Job motivation: Nothing better to do, and they need the money
+Quirk: Fastidiously neat
+Name: Oliver Cook
+Gender: Male
+Culture: English
+Age: Middle-aged
+Height: Very Short
+Problems: Blackmailed by enemy
+Job motivation: It's a stepping stone to better things
+Quirk: Missing digits or an ear
+Name: Dawei Lei
+Gender: Male
+Culture: Chinese
+Age: Young
+Height: Very Short
+Problems: Enmity of a local psychic
+Job motivation: Sense of social duty
+Quirk: Missing teeth
+Name: Ian Watson
+Gender: Male
+Culture: English
+Age: Middle-aged
+Height: Tall
+Problems: Grudge against local authorities
+Job motivation: Religious obligation or vow
+Quirk: Long hair
+Name: Eduwa Fasola
+Gender: Female
+Culture: Nigerian
+Age: Young
+Height: Very Tall
+Problems: Chronic illness
+Job motivation: Sense of social duty
+Quirk: Bald
+Name: Olafemi Adunola
+Gender: Female
+Culture: Nigerian
+Age: Young
+Height: Tall
+Problems: Close relative in trouble with the law
+Job motivation: Greed, because nothing else they can do pays better
+Quirk: Scars all over hands

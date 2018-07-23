@@ -1,0 +1,40 @@
+Body Type: Insectile
+Social Structure: Oligarchic
+Lenses: Pacifism, Treachery, Journeying, Pacifism
+
+Body Type: Exotic
+Social Structure: Tribal
+Lenses: Wrath
+
+Body Type: Avian
+Social Structure: Oligarchic
+Lenses: Honor, Greed
+
+Body Type: Hybrid
+Social Structure: Tribal
+Lenses: Fear, Tribalism
+
+Body Type: Avian
+Social Structure: Multipolar
+Lenses: Despair, Hate, Honor
+
+Body Type: Hybrid
+Social Structure: Oligarchic
+Lenses: Gluttony, Domination
+
+Body Type: Insectile
+Social Structure: Monarchic
+Lenses: Tradition
+
+Body Type: Hybrid
+Social Structure: Tribal
+Lenses: Tradition
+
+Body Type: Avian
+Social Structure: Monarchic
+Lenses: Hate, Honor
+
+Body Type: Avian
+Social Structure: Oligarchic
+Lenses: Tribalism, Fear, Despair, Joy
+
