@@ -1,7 +1,7 @@
 #Usage
 
-swntool [script name] [output file] [n]
+swntool [script name] [n] [output file]
 
 example:
 
-./swntool.sh alien aliens.txt 5
+./swntool.sh alien 5 aliens.txt
