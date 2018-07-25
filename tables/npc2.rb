@@ -1,0 +1,85 @@
+---
+gender:
+- Male
+- Female
+background:
+- local underclass or poorest natives
+- common laborer or cube worker
+- aspiring bourgeoise or upper class
+- elite of this society
+- minority or foreigner; poor
+- minority or foreigner; common
+- minority or foreigner; aspiring bourgeoise or upper class
+- minority or foreigner; elite
+- offworlder or exotic; poor
+- offworlder or exotic; common
+- offworlder or exotic; aspiring bourgeoise or upper class
+- offworlder or exotic; elite
+culture:
+- Arabic
+- Chinese
+- English
+- Indian
+- Japanese
+- Nigerian
+- Russian
+- Spanish
+age:
+- Unusually young or old for their role
+- Young adult
+- Mature prime
+- Middle-aged or elderly
+problem:
+- significant debt or money woes
+- a loved one is in trouble; debt
+- a loved one is in trouble; romantic
+- a loved one is in trouble; addiction
+- a loved one is in trouble; disliked by superior 
+- a loved one is in trouble; sickness 
+- a loved one is in trouble; hate their situation 
+- a loved one is in trouble; targeted by someone dangerous 
+- a loved one is in trouble; pursuing disaster 
+- a loved one is in trouble; no real problems 
+- romantic failure with desired person
+- drug or behavioral addiction
+- their superior dislikes or resents them
+- they have a persistent sickness
+- they hate their jor or life situation
+- someone dangerous is targeting them
+- they're pursuing a dangerous purpose
+- they have no problems worth mentioning
+desire:
+- they want a particular romantic partner
+- they want money for themselves or a loved one
+- they want a promotion in their job
+- they want answers about a past trauma
+- they want revenge on a enemy
+- they want to help a beleaguered friend
+- they want an entirely different job
+- they want protection from an enemy
+- they want fame and glory
+- they want to leave their current life
+- they want power over those around them
+- they have everything they want from life
+trait:
+- ambition
+- avarice
+- bitterness
+- courage
+- cowardice
+- curiosity
+- deceitfulness
+- determination
+- devotion to a cause
+- filiality
+- hatred
+- honesty
+- hopefulness
+- love of a person
+- nihilism
+- paternalism
+- pessimism
+- protectiveness
+- resentment
+- shame
+...
