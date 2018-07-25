@@ -15,6 +15,15 @@ background:
 - offworlder or exotic; common
 - offworlder or exotic; aspiring bourgeoise or upper class
 - offworlder or exotic; elite
+role:
+- criminal, thug, thief, swindler
+- menial, cleaner, retail worker, servant
+- unskilled heavy laborer, porter, construction worker
+- skilled tradesman, electrician, mechanic, pilot
+- idea worker, programmer, writer
+- merchant, business owner, trader, banker
+- official, bureaucrat, courtier, clerk
+- military, soldier, enforcer, law officer
 culture:
 - Arabic
 - Chinese
@@ -67,19 +76,18 @@ trait:
 - bitterness
 - courage
 - cowardice
-- Carries work tools constantly
-- Long hair
-- Bearded, if male; ankle-length hair if female
-- Scars all over hands
-- Missing digits or an ear
-- Smells like their work
-- Repeats himself constantly
-- Talks about tabloid articles
-- Booming voice
-- Vocal dislike of offworlders
-- Always snuffling
-- Missing teeth
-- Fastidiously neat
-- Wears religious emblems
-- Speaks as little as possible
+- deceitfulness
+- determination
+- devotion to a cause
+- filiality
+- hatred
+- honesty
+- hopefulness
+- love of a person
+- nihilism
+- paternalism
+- pessimism
+- protectiveness
+- resentment
+- shame
 ...

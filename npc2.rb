@@ -47,19 +47,19 @@ require 'yaml'
 # - last_name (string)
 #
 class NPC2
-  attr_reader :age, :background, :culture, :role, :problem, :desire, :trait, 
+  attr_reader :gender, :background, :culture, :age, :problem, :desire, :trait,
     :first_name, :last_name
 
   def initialize
-    yaml = YAML.load(File.read('tables/npc.yaml'))
-    @age            = yaml['age'].sample.to_str
+    yaml = YAML.load(File.read('tables/npc2.yaml'))
+    @gender = yaml['gender'].sample.to_str
     @background	= yaml['background'].sample.to_str
+    @role	= yaml['role'].sample.to_str
     @culture	= yaml['culture'].sample.to_str
-    @role = yaml['role'].sample.to_str
+    @age            = yaml['age'].sample.to_str
     @problem = yaml['problem'].sample.to_str
     @desire = yaml['desire'].sample.to_str
     @trait = yaml['trait'].sample.to_str
-    @gender = yaml['gender'].sample.to_str
 
     names = YAML.load(File.read('tables/npc_names/'+@culture+'.yaml'))
     @first_name     = names[@gender].sample.to_str
@@ -71,6 +71,7 @@ class NPC2
       |Name: #{@first_name} #{@last_name}
       |Age: #{@age}
       |Background: #{@background}
+      |Role: #{@role}
       |Culture: #{@culture}
       |Role: #{@role}
       |Problem: #{@problem}
