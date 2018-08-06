@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #
-# npc2.rb
+# urban.rb
 # SWN NPC Generator
 #
 # Copyright (c) 2018 Nicholas Goodman <i@nicholasleegoodman.com>
@@ -30,53 +30,37 @@
 require './unindent'
 require 'yaml'
 
-# This class generates an NPC from tables/npc2.yaml, 
+# This class generates an urban encounter from tables/urban.yaml, 
 # which has the following attributes:
-# - age (string)
-# - background (str)
-# - culture (str)
-# - role (str)
-# - problem (str)
-# - desire (str)
-# - trait (str)
-# - gender (str)
-# This class generates a name for the NPC from tables/npc_names/***.yaml
-# where *** is the determined culture. It has the following attributes
-# - Male (string)
-# - Female (string)
-# - last_name (string)
+# - about (string)
+# - venue (str)
+# - involvement (str)
+# - nature (str)
+# - antagonists (str)
+# - features (str)
 #
-class NPC2
-  attr_reader :gender, :background, :culture, :age, :problem, :desire, :trait,
-    :first_name, :last_name
+class URBAN
+  attr_reader :about, :venue, :involvement, :nature, :antagonists, :features
 
   def initialize
-    yaml = YAML.load(File.read('tables/npc2.yaml'))
-    @gender = yaml['gender'].sample.to_str
-    @background	= yaml['background'].sample.to_str
-    @role	= yaml['role'].sample.to_str
-    @culture	= yaml['culture'].sample.to_str
-    @age            = yaml['age'].sample.to_str
-    @problem = yaml['problem'].sample.to_str
-    @desire = yaml['desire'].sample.to_str
-    @trait = yaml['trait'].sample.to_str
+    yaml = YAML.load(File.read('tables/urban.yaml'))
+    @about = yaml['about'].sample.to_str
+    @venue = yaml['venue'].sample.to_str
+    @involvement = yaml['involvement'].sample.to_str
+    @nature = yaml['nature'].sample.to_str
+    @antagonists = yaml['antagonist'].sample.to_str
+    @feature = yaml['feature'].sample.to_str
 
-    names = YAML.load(File.read('tables/npc_names/'+@culture+'.yaml'))
-    @first_name     = names[@gender].sample.to_str
-    @last_name      = names['last_name'].sample.to_str
   end
 
   def to_s
     <<-EOS.unindent
-      |Name: #{@first_name} #{@last_name}
-      |Age: #{@age}
-      |Background: #{@background}
-      |Role: #{@role}
-      |Culture: #{@culture}
-      |Problem: #{@problem}
-      |Desire: #{@desire}
-      |Trait: #{@trait}
-      |Gender: #{@gender}
+      |About: #{@about}
+      |Venue: #{@venue}
+      |Involvement: #{@involvement}
+      |Nature: #{@nature}
+      |Antagonists: #{@antagonists}
+      |Features: #{@features}
       EOS
   end
 end
@@ -85,6 +69,6 @@ end
 if __FILE__ == $0
   Integer(ARGV.shift || 1).times do |e|
     puts '-----------+-+-+-----------' unless e.zero?
-    puts NPC2.new
+    puts URBAN.new
   end
 end
